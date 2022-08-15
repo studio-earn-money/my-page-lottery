@@ -1,0 +1,1 @@
+Use for creating livebroadcasts, delete livebroadcasts, get list of livebroadcasts, add thumbnails, binds a YouTube broadcast to a stream, update video info, get list of livestreams, get list of video categories, add videos to playlistitem.
